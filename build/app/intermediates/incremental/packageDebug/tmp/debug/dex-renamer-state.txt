@@ -1,0 +1,4 @@
+#Tue Dec 01 12:37:14 IST 2020
+base.0=/home/manavpreet/AndroidStudioProjects/bmi_calculator_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
